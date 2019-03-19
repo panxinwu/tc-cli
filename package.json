@@ -1,0 +1,22 @@
+{
+  "name": "tc-cli",
+  "version": "1.0.0",
+  "description": "腾讯云前端构建工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panxinwu/tc-cli.git"
+  },
+  "keywords": [
+    "腾讯云前端构建工具"
+  ],
+  "author": "panda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panxinwu/tc-cli/issues"
+  },
+  "homepage": "https://github.com/panxinwu/tc-cli#readme"
+}
